@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\dialog.o
+./release\qcustomplot.o
+./release\table.o
+./release\thread.o
+./release\zoomgraph.o
+./release\qrc_Resources.o
+./release\moc_dialog.o
+./release\moc_qcustomplot.o
+./release\moc_table.o
+./release\moc_thread.o
+./release\moc_zoomgraph.o
+);

@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\dialog.o
+./debug\qcustomplot.o
+./debug\table.o
+./debug\thread.o
+./debug\zoomgraph.o
+./debug\qrc_Resources.o
+./debug\moc_dialog.o
+./debug\moc_qcustomplot.o
+./debug\moc_table.o
+./debug\moc_thread.o
+./debug\moc_zoomgraph.o
+);

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>mass_main.png</file>
+        <file>add_raw.png</file>
+        <file>delete_one.png</file>
+        <file>delete_all.png</file>
+        <file>run.png</file>
+        <file>convertRaw.png</file>
+        <file>pre_process.png</file>
+        <file>show_result.png</file>
+        <file>table.png</file>
+        <file>save.png</file>
+        <file>zoom_extend.png</file>
+    </qresource>
+</RCC>
